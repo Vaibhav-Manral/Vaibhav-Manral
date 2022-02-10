@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Manral</h1>
-<h3 align="center">A passionate fullstack-webdeveloper</h3>
+<h3 align="center">A passionate fullstack-web developer</h3>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmixJtkuz7rbzJSg8EeHuWW9AYJRqLLbByUg&usqp=CAU" width="100%" height="300"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-manral&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-manral" />
 <a href=""><img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="300" width="500"/></a>
