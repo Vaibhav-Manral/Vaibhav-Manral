@@ -9,7 +9,15 @@
 
 - 📫 How to reach me **vabmanral@gmail.com**
 
+<h2>About me</h2>
 
+🙂   Exploring new technologies and learning data structures and algorithms.
+🎓   Learning Full Stack Web Development Javascript and its frameworks at Masai School
+💼   I aspire to work as a full stack web developer.
+🌱   Learning more about AWS, MongoDB, Python and Typscript.
+👯‍♂️   I’m looking to collaborate on MERN Stack projects and lot of learnings. Happy to                    Contribute in Open source Projects
+💬   Ask me about anything related to MERN stack and data structure & algorithms.I will be happy to tell, if
+        I am unable then surely we will together learn new things.
 
 <h3 align="left">Connect with me:</h3>
 
